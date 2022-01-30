@@ -1,9 +1,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-In this boilerplate, it was included some configurations that makes our lifes easier. You can check bellow:
+In this boilerplate, it was included some settings that make our life easier. You can check bellow:
 
 1. Eslint configuration;
-2. Styled components configuration and a simple use with props passed;
+2. Styled components configuration and a simple use of props passing;
 3. React Router DOM with a simple change of route;
 4. Absolute path configuration (src as base url);
 5. Initial test case using Jest.
